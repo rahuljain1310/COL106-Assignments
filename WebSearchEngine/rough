@@ -1,0 +1,32 @@
+ // BufferedReader reader = new BufferedReader(new FileReader(file));  
+            // StringBuilder stringBuilder = new StringBuilder();
+            // char[] buffer = new char[10];
+            // while (reader.read(buffer) != -1) {
+            //     for(int i=0;i<10;i++) {
+            //         switch(buffer[i]) {
+            //             case '{':
+            //             case '}':
+            //             case '!':
+            //             case '[':
+            //             case ']':
+            //             case '<':
+            //             case '>':
+            //             case '=':
+            //             case '(':
+            //             case ')':
+            //             case '.':
+            //             case ',':
+            //             case ';':
+            //             case '"':
+            //             case '\'':
+            //             case '#':
+            //             case '?':
+            //             case ':':
+            //             case '-':
+            //             buffer[i] = ' ';
+            //         }
+            //     }
+            //     stringBuilder.append(new String(buffer));
+            //     buffer = new char[10];
+            // }
+            // reader.close();
